@@ -1,16 +1,14 @@
 # Computational Biochemical Engineer
 
 ## Education
-- Master of Engineering in Chemical Engineering 
-(The State University of New York at Buffalo (SUNY) August 2022)
-- Bachelor of Engineering in Biotechnology GPA 3.45/4.0
-(M. S. Ramaiah Institute of Technology February 2020)
+- Master of Engineering in Chemical Engineering  | The State University of New York at Buffalo (SUNY) | August 2022 |
+- Bachelor of Engineering in Biotechnology | M. S. Ramaiah Institute of Technology | February 2020 |
 
 ## Graduate Course Work
 | Biochemical Engineering | Six Sigma for Chemical Engineers | In vivo Molecular Imaging | Mathematics and Computation for Chemical Engineers | Metabolic Engineering | Transport Phenomena | Bioprocess Modeling |
 
 ##  Experience
-The State University of New York at Buffalo (Research, Education and Training University) (Aug 2021 – Aug 2022)
+The State University of New York at Buffalo | Research, Education and Training University | Aug 2021 – Aug 2022 |
 - Role: Student Assistant [Grader] 
 - Course: CE-561 Applied Chemical Kinetics.
 - Responsible for Grading Homework papers and organizing data using Microsoft Office.
@@ -45,7 +43,7 @@ Project: A Novel gas generating nanoparticle ultrasound contrast agent for imagi
 - Gathered, curated and presented possible protocols for testing these candidates in transgenic mice models.
 - Proposed an alternate strategy for achieving the same goal.
 
-The University of Trans Disciplinary Health Sciences and Technology  (Research, Education and Training University) (July 2019 – October 2019)                       
+The University of Trans Disciplinary Health Sciences and Technology | Research, Education and Training University | July 2019 – October 2019 |                       
 - Role: Research Intern
 
 Project: Network Pharmacology Integrated Pharmacokinetics Approach to Decipher the Mechanism of Shankhapushpi Exerted Nootropic Activity
@@ -59,7 +57,7 @@ Project: Comparative Insilico Studies on Phytochemicals of Ocimum as Natural Inh
 - Proposed the idea and application of a supplementary therapeutic aid for rapid use during global viral pandemic outbreaks.
 Publication URL: http://doi.org/10.5281/zenodo.3524053 (Author name Corrected P.S. Check Correspondence)
 
-Syngene International Limited (Contract / Clinical Research Organization) (February 2019 – June 2019)                                                         
+Syngene International Limited | Contract / Clinical Research Organization | February 2019 – June 2019 |                                                        
 - Role: Research Intern [Undergraduate Project]
 
 Project: Role of Matrix and Sample Storage on Accuracy and Precision Evaluation for Validation of Bio-analytical Pharmacokinetic Assays
@@ -67,11 +65,11 @@ Project: Role of Matrix and Sample Storage on Accuracy and Precision Evaluation 
 - Devised and pitched an idea for a universal acceptance criterion for validation sample preparation for minimized resource
 Consumption.
 
-Azyme Bio-sciences Pvt Ltd (Research, Education and Training Institute) (August 2018 - September 2018)                                                             
+Azyme Bio-sciences Pvt Ltd | Research, Education and Training Institute | August 2018 - September 2018 |                                                             
 - Role: Research Intern
 - Intensive skill training in Process design and optimization of DNA extraction techniques, Agarose gel electrophoresis, restriction digestion, ligation, Biotransformation of B. subtilis and E. coli, Gene regulation, and investigated the effects of Ultraviolet and IR radiation for prospecting beneficial nutritional mutants.
 
-Biozeen Pvt Ltd      (Bioprocess and Scale up Solutions)   (June 2018 - July 2018)                                                            
+Biozeen Pvt Ltd | Bioprocess and Scale up Solutions | June 2018 - July 2018 |                                                            
 - Role: Industrial Trainee
 - Biomass production of P. Pastoris in multimodal bioreactor assemblies. Performed routine EVSIP, FVSIP, CIP of production scale bioreactor installations along with cell culture techniques like media preparation, staining, sub-culturing and sketching piping and instrumentation diagrams of production scale process equipment tailored to the URS.
 

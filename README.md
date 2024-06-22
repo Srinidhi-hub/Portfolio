@@ -1,8 +1,8 @@
 # Portfolio
 
 ## Education
-- M.E. in Chemical Engineering  | The State University of New York at Buffalo (SUNY) | August 2022 
-- B.E. in Biotechnology | M. S. Ramaiah Institute of Technology | February 2020 
+- M.E, Chemical Engineering  | The State University of New York at Buffalo (SUNY) | August 2022 
+- B.E, Biotechnology | M. S. Ramaiah Institute of Technology | February 2020 
 
 ## Skills | Keywords 
 - Keywords: Statistical programming, Data Mining, Bioprocess Modelling, Biostatistics, Mathematical Modelling, Process Development, Process Optimization, Process Validation, Theoretical Biology and Chemistry (DFT).

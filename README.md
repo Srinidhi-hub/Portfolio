@@ -55,6 +55,7 @@ Project: A Novel gas generating nanoparticle ultrasound contrast agent for imagi
 - Proposed an alternate strategy for achieving the same goal.
 
 The University of Trans Disciplinary Health Sciences and Technology | Research, Education and Training University | July 2019 – October 2019 |
+
 **Role: Research Intern**
 
 Project: Network Pharmacology Integrated Pharmacokinetics Approach to Decipher the Mechanism of Shankhapushpi Exerted Nootropic Activity
@@ -67,6 +68,7 @@ Project: Comparative Insilico Studies on Phytochemicals of Ocimum as Natural Inh
 - Proposed the idea and application of a supplementary therapeutic aid for rapid use during global viral pandemic outbreaks.
 
 Syngene International Limited | Contract / Clinical Research Organization | February 2019 – June 2019 |
+
 **Role: Research Intern (Undergraduate Project)**
 
 Project: Role of Matrix and Sample Storage on Accuracy and Precision Evaluation for Validation of Bio-analytical Pharmacokinetic Assays

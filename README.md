@@ -4,6 +4,14 @@
 - Master of Engineering in Chemical Engineering  | The State University of New York at Buffalo (SUNY) | August 2022 |
 - Bachelor of Engineering in Biotechnology | M. S. Ramaiah Institute of Technology | February 2020 |
 
+## Sills | Keywords
+- Keywords: Statistical programming, Data Mining, Bioprocess Modelling, Biostatistics, Mathematical Modelling, Process Development, Process Optimization, Process Validation, Theoretical Biology and Chemistry (DFT).
+- Tech Stack: Cytoscape, Super-pro designer, GAMESS (US), PyMol, PyRx, AutoDock, Discovery Studio, Cobra Toolbox, MATLAB, Python, Minitab, MS Office, SLURM Scripting.
+- Libraries: NumPy, Pandas, SciPy, Matplotlib, FiPy, Multiprocessing, Openpyxl.
+- Database: GTEx, LINCS-1000.
+- Laboratory Techniques and Instrumentation: UV Spectrophotometer, Meso-scale discovery systems, Tecan liquid handling systems, Watson -LIMS.
+- Technical Certifications: | ‘Lean Six Sigma Black Belt Professional’ Certification offered by Six Sigma Global Institute https://sgq.io/ejasLji | ‘Bioreactor operations’ from National Institute for Bioprocessing Research and Training, Dublin, Ireland |
+
 ## Graduate Course Work
 | Biochemical Engineering | Six Sigma for Chemical Engineers | In vivo Molecular Imaging | Mathematics and Computation for Chemical Engineers | Metabolic Engineering | Transport Phenomena | Bioprocess Modeling |
 

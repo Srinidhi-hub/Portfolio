@@ -1,4 +1,4 @@
-# Computational Biochemical Engineering and Process Modelling Professional
+# Computational Biochemical Engineer
 
 ## Education
 - Master of Engineering in Chemical Engineering 

@@ -63,7 +63,7 @@ Project: Comparative Insilico Studies on Phytochemicals of Ocimum as Natural Inh
 - Visualized the Ebola proteome and identified potential multifunctional targets for drug design and discovery.
 - Showcased the importance of comparative analysis of two docking software outputs and compared their scoring algorithms for estimating the reliability of the obtained results based on published literature.
 - Proposed the idea and application of a supplementary therapeutic aid for rapid use during global viral pandemic outbreaks.
-Publication URL: http://doi.org/10.5281/zenodo.3524053 (Author name Corrected P.S. Check Correspondence)
+Publication URL: http://doi.org/10.5281/zenodo.3524053
 
 Syngene International Limited | Contract / Clinical Research Organization | February 2019 – June 2019 |                                                        
 - Role: Research Intern [Undergraduate Project]

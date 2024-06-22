@@ -28,7 +28,7 @@ Hello, I received my Master's degree in Chemical Engineering from The State Univ
 
 ##  Experience
 
-University at Buffalo (SUNY) | Research, Education and Training University | Aug 2021 – Aug 2022 |
+**University at Buffalo (SUNY)** | Research, Education and Training University | Aug 2021 – Aug 2022 |
 
 **Role: Student Assistant [Grader]** 
 
@@ -66,7 +66,7 @@ Project: A Novel gas generating nanoparticle ultrasound contrast agent for imagi
 - Gathered, curated and presented possible protocols for testing these candidates in transgenic mice models.
 - Proposed an alternate strategy for achieving the same goal.
 
-The University of Trans Disciplinary Health Sciences and Technology | Research, Education and Training University | July 2019 – October 2019 |
+**The University of Trans Disciplinary Health Sciences and Technology** | Research, Education and Training University | July 2019 – October 2019 |
 
 **Role: Research Intern**
 
@@ -79,7 +79,7 @@ Project: Comparative Insilico Studies on Phytochemicals of Ocimum as Natural Inh
 - Showcased the importance of comparative analysis of two docking software outputs and compared their scoring algorithms for estimating the reliability of the obtained results based on published literature.
 - Proposed the idea and application of a supplementary therapeutic aid for rapid use during global viral pandemic outbreaks.
 
-Syngene International Limited | Contract / Clinical Research Organization | February 2019 – June 2019 |
+**Syngene International Limited** | Contract / Clinical Research Organization | February 2019 – June 2019 |
 
 **Role: Research Intern (Undergraduate Project)**
 
@@ -88,12 +88,12 @@ Project: Role of Matrix and Sample Storage on Accuracy and Precision Evaluation 
 - Devised and pitched an idea for a universal acceptance criterion for validation sample preparation for minimized resource
 Consumption.
 
-Azyme Bio-sciences Pvt Ltd | Research, Education and Training Institute | August 2018 - September 2018 |                                                             
+**Azyme Bio-sciences Pvt Ltd** | Research, Education and Training Institute | August 2018 - September 2018 |                                                             
 
 **Role: Research Intern**
 - Intensive skill training in Process design and optimization of DNA extraction techniques, Agarose gel electrophoresis, restriction digestion, ligation, Biotransformation of B. subtilis and E. coli, Gene regulation, and investigated the effects of Ultraviolet and IR radiation for prospecting beneficial nutritional mutants.
 
-Biozeen Pvt Ltd | Bioprocess and Scale up Solutions | June 2018 - July 2018 |                                                            
+**Biozeen Pvt Ltd** | Bioprocess and Scale up Solutions | June 2018 - July 2018 |                                                            
 
 **Role: Industrial Trainee**
 - Biomass production of P. Pastoris in multimodal bioreactor assemblies. Performed routine EVSIP, FVSIP, CIP of production scale bioreactor installations along with cell culture techniques like media preparation, staining, sub-culturing and sketching piping and instrumentation diagrams of production scale process equipment tailored to the URS.

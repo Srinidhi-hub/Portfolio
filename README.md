@@ -1,8 +1,8 @@
-# Computational Biochemical Engineer 
+# Portfolio
 
 ## Education
-- Master of Engineering in Chemical Engineering  | The State University of New York at Buffalo (SUNY) | August 2022 
-- Bachelor of Engineering in Biotechnology | M. S. Ramaiah Institute of Technology | February 2020 
+- M.E. in Chemical Engineering  | The State University of New York at Buffalo (SUNY) | August 2022 
+- B.E. in Biotechnology | M. S. Ramaiah Institute of Technology | February 2020 
 
 ## Skills | Keywords 
 - Keywords: Statistical programming, Data Mining, Bioprocess Modelling, Biostatistics, Mathematical Modelling, Process Development, Process Optimization, Process Validation, Theoretical Biology and Chemistry (DFT).
@@ -54,8 +54,7 @@ Project: A Novel gas generating nanoparticle ultrasound contrast agent for imagi
 - Gathered, curated and presented possible protocols for testing these candidates in transgenic mice models.
 - Proposed an alternate strategy for achieving the same goal.
 
-The University of Trans Disciplinary Health Sciences and Technology | Research, Education and Training University | July 2019 – October 2019 |                       
-
+The University of Trans Disciplinary Health Sciences and Technology | Research, Education and Training University | July 2019 – October 2019 |
 **Role: Research Intern**
 
 Project: Network Pharmacology Integrated Pharmacokinetics Approach to Decipher the Mechanism of Shankhapushpi Exerted Nootropic Activity
@@ -67,9 +66,8 @@ Project: Comparative Insilico Studies on Phytochemicals of Ocimum as Natural Inh
 - Showcased the importance of comparative analysis of two docking software outputs and compared their scoring algorithms for estimating the reliability of the obtained results based on published literature.
 - Proposed the idea and application of a supplementary therapeutic aid for rapid use during global viral pandemic outbreaks.
 
-Syngene International Limited | Contract / Clinical Research Organization | February 2019 – June 2019 |                                                        
-
-**Role: Research Intern [Undergraduate Project]**
+Syngene International Limited | Contract / Clinical Research Organization | February 2019 – June 2019 |
+**Role: Research Intern (Undergraduate Project)**
 
 Project: Role of Matrix and Sample Storage on Accuracy and Precision Evaluation for Validation of Bio-analytical Pharmacokinetic Assays
 - Analyzed the efficiency of analyte recovery from stability samples prepared from multi-matrices by subjecting them to (accuracy, precision and drift) validation runs on a freshly developed bioanalytical pharmacokinetic assay for an actual drug candidate. Participated in laboratory documentation audits.
@@ -88,8 +86,8 @@ Biozeen Pvt Ltd | Bioprocess and Scale up Solutions | June 2018 - July 2018 |
 
 ## Preprints and Publications
 - Srinidhi, “A Three-Pronged Computational Approach for Evaluating Density Based Semi Empirical Equations of Supercritical Extraction Process and Data,” Chemrxiv, 2024, [Doi](https://doi.org/10.26434/chemrxiv-2024-fw30s).
-- Srinidhi, “Quantum chemical studies and pharmacophore modeling for designing novel keap1 antagonists that enhance nrf2 mediated neuroprotection,” African Journal of Biological Sciences, vol. 3, no. 2, pp. 130–156, 2021, [Url](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3835788) .
+- Srinidhi, “Quantum chemical studies and pharmacophore modeling for designing novel keap1 antagonists that enhance nrf2 mediated neuroprotection,” African Journal of Biological Sciences, vol. 3, no. 2, pp. 130–156, 2021, [Url](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3835788).
 - Srinidhi, “Artificial Neural Network (FFBP-ANN) Based Grey Relational Analysis for Modeling Dyestuff Solubility in Supercritical CO2 with Ethanol as the Co-Solvent,” Chemical Review and Letters, vol. 5, pp. 141–152, 2021,
-[Doi](https://dx.doi.org/10.22034/crl.2021.259291.1096)
+[Doi](https://dx.doi.org/10.22034/crl.2021.259291.1096).
 - Srinidhi, “Network Pharmacology Integrated Pharmacokinetics Approach to Decipher the Mechanism of Shankhapushpi Exerted Nootropic Activity,” American Journal of Pharmacological Sciences, vol. 7, no. 1, pp. 25–38, Jan. 2019, [Url](http://pubs.sciepub.com/ajps/7/1/5/index.html).
-- Srinidhi, “Comparative Insilico Studies on Phytochemicals of Ocimum as Natural Inhibitors of Ebola VP-35 Protein,” Indo-American Journal of Pharmaceutical Research, vol. 10, no. 10, 2019, [Doi](http://doi.org/10.5281/zenodo.3524053)
+- Srinidhi, “Comparative Insilico Studies on Phytochemicals of Ocimum as Natural Inhibitors of Ebola VP-35 Protein,” Indo-American Journal of Pharmaceutical Research, vol. 10, no. 10, 2019, [Doi](http://doi.org/10.5281/zenodo.3524053).

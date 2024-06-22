@@ -1,4 +1,4 @@
-# Computational Biochemical Engineer
+# Computational Biochemical Engineer 
 
 ## Education
 - Master of Engineering in Chemical Engineering  | The State University of New York at Buffalo (SUNY) | August 2022 

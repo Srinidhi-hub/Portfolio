@@ -1,7 +1,7 @@
 title: Srinidhi
 logo: assets/images/Bio-data.png
 description: Computational Biochemical Engineer
-  links:
+links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:srinidh2@buffalo.edu"

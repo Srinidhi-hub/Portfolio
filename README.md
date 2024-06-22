@@ -13,7 +13,7 @@
 - Technical Certifications: | ‘Lean Six Sigma Black Belt Professional’ Certification offered by Six Sigma Global Institute [Certificate](https://sgq.io/ejasLji) | ‘Bioreactor operations’ from National Institute for Bioprocessing Research and Training, Dublin, Ireland 
 
 ## Graduate Course Work
-| Biochemical Engineering | Six Sigma for Chemical Engineers | In vivo Molecular Imaging | Mathematics and Computation for Chemical Engineers | Metabolic Engineering | Transport Phenomena | Bioprocess Modeling
+Biochemical Engineering | Six Sigma for Chemical Engineers | In vivo Molecular Imaging | Mathematics and Computation for Chemical Engineers | Metabolic Engineering | Transport Phenomena | Bioprocess Modeling |
 
 ##  Experience
 The State University of New York at Buffalo | Research, Education and Training University | Aug 2021 – Aug 2022 |

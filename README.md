@@ -4,7 +4,7 @@
 - Master of Engineering in Chemical Engineering  | The State University of New York at Buffalo (SUNY) | August 2022 |
 - Bachelor of Engineering in Biotechnology | M. S. Ramaiah Institute of Technology | February 2020 |
 
-## Sills | Keywords
+## Skills | Keywords |
 - Keywords: Statistical programming, Data Mining, Bioprocess Modelling, Biostatistics, Mathematical Modelling, Process Development, Process Optimization, Process Validation, Theoretical Biology and Chemistry (DFT).
 - Tech Stack: Cytoscape, Super-pro designer, GAMESS (US), PyMol, PyRx, AutoDock, Discovery Studio, Cobra Toolbox, MATLAB, Python, Minitab, MS Office, SLURM Scripting.
 - Libraries: NumPy, Pandas, SciPy, Matplotlib, FiPy, Multiprocessing, Openpyxl.

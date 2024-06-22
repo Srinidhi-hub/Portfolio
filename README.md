@@ -28,7 +28,7 @@ Hello, I received my Master's degree in Chemical Engineering from The State Univ
 
 ##  Experience
 
-University at Buffalo (SUNY)| Research, Education and Training University | Aug 2021 – Aug 2022 |
+University at Buffalo (SUNY) | Research, Education and Training University | Aug 2021 – Aug 2022 |
 
 **Role: Student Assistant [Grader]** 
 

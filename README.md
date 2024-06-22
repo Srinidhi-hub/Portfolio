@@ -10,9 +10,10 @@
 | Biochemical Engineering | Six Sigma for Chemical Engineers | In vivo Molecular Imaging | Mathematics and Computation for Chemical Engineers | Metabolic Engineering | Transport Phenomena | Bioprocess Modeling |
 
 ##  Experience
-The State University of New York at Buffalo                                                                                                    Aug 2021 – Aug 2022
-(Research, Education and Training University) 
-Role: Student Assistant [Grader]
+The State University of New York at Buffalo                                                                                                    
+-- Aug 2021 – Aug 2022
+-- (Research, Education and Training University) 
+-- Role: Student Assistant [Grader]
 - Course: CE-561 Applied Chemical Kinetics.
 - Responsible for Grading Homework papers and organizing data using Microsoft Office.
 Role: Graduate Research Student

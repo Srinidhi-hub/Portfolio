@@ -11,12 +11,12 @@ Hello, I received my Master's degree in Chemical Engineering from The State Univ
 - B.E, Biotechnology | M. S. Ramaiah Institute of Technology | February 2020
 
 ## Skills | Keywords 
-- Keywords: Statistical programming, Data Mining, Bioprocess Modelling, Biostatistics, Mathematical Modelling, Process Development, Process Optimization, Process Validation, Theoretical Biology and Chemistry (DFT).
-- Tech Stack: Cytoscape, Super-pro designer, GAMESS (US), PyMol, PyRx, AutoDock, Discovery Studio, Cobra Toolbox, MATLAB, Python, Minitab, MS Office, SLURM Scripting.
-- Libraries: NumPy, Pandas, SciPy, Matplotlib, FiPy, Multiprocessing, Openpyxl.
-- Database: GTEx, LINCS-1000.
-- Laboratory Techniques and Instrumentation: UV Spectrophotometer, Meso-scale discovery systems, Tecan liquid handling systems, Watson -LIMS.
-- Technical Certifications: | ‘Lean Six Sigma Black Belt Professional’ Certification offered by Six Sigma Global Institute [Certificate](https://sgq.io/ejasLji) | ‘Bioreactor operations’ from National Institute for Bioprocessing Research and Training, Dublin, Ireland 
+- **Keywords:** Statistical programming, Data Mining, Bioprocess Modelling, Biostatistics, Mathematical Modelling, Process Development, Process Optimization, Process Validation, Theoretical Biology and Chemistry (DFT).
+- **Tech Stack:** Cytoscape, Super-pro designer, GAMESS (US), PyMol, PyRx, AutoDock, Discovery Studio, Cobra Toolbox, MATLAB, Python, Minitab, MS Office, SLURM Scripting.
+- **Libraries:** NumPy, Pandas, SciPy, Matplotlib, FiPy, Multiprocessing, Openpyxl.
+- **Database:** GTEx, LINCS-1000.
+- **Laboratory Techniques and Instrumentation:** UV Spectrophotometer, Meso-scale discovery systems, Tecan liquid handling systems, Watson -LIMS.
+- **Technical Certifications:** | ‘**Lean Six Sigma Black Belt Professional**’ Certification offered by Six Sigma Global Institute [Certificate](https://sgq.io/ejasLji) | ‘**Bioreactor operations**’ from National Institute for Bioprocessing Research and Training, Dublin, Ireland 
 
 ## Graduate Course Work
 - Biochemical Engineering
@@ -33,7 +33,7 @@ Hello, I received my Master's degree in Chemical Engineering from The State Univ
 
 **Role: Student Assistant [Grader]** 
 
-- Course: CE-561 Applied Chemical Kinetics.
+- **Course:** CE-561 Applied Chemical Kinetics.
 - Responsible for Grading Homework papers and organizing data using Microsoft Office.
 
 **Role: Graduate Research Student**

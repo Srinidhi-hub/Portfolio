@@ -7,7 +7,7 @@ Hello, I received my Master's degree in Chemical Engineering from The State Univ
 
 ## Education
 - M.E, Chemical Engineering  | The State University of New York at Buffalo (SUNY) | August 2022
-  CeDiD: | 22G6-XJHD-SOI8 (Sr) | [Degree Credential](https://registrar.buffalo.edu/diploma/credential-validation.php) 
+- CeDiD: | 22G6-XJHD-SOI8 (Sr) | [Degree Credential](https://registrar.buffalo.edu/diploma/credential-validation.php) 
 - B.E, Biotechnology | M. S. Ramaiah Institute of Technology | February 2020
 
 ## Skills | Keywords 

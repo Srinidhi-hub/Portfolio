@@ -6,8 +6,9 @@ Hello, I received my Master's degree in Chemical Engineering from The State Univ
 | [Email](srinidh2@buffalo.edu) | [LinkedIn](https://www.linkedin.com/in/sr1n1dh1/) | [Github](https://github.com/Srinidhi-hub) | [ORCID](https://orcid.org/0000-0002-5318-8639) | [ResearchGate](https://www.researchgate.net/profile/Srinidhi-2) |
 
 ## Education
-- M.E, Chemical Engineering  | The State University of New York at Buffalo (SUNY) | August 2022 
-- B.E, Biotechnology | M. S. Ramaiah Institute of Technology | February 2020 
+- M.E, Chemical Engineering  | The State University of New York at Buffalo (SUNY) | August 2022
+- CeDiD: | 22G6-XJHD-SOI8 (Sr) | [Degree Credential](https://registrar.buffalo.edu/diploma/credential-validation.php) 
+- B.E, Biotechnology | M. S. Ramaiah Institute of Technology | February 2020
 
 ## Skills | Keywords 
 - Keywords: Statistical programming, Data Mining, Bioprocess Modelling, Biostatistics, Mathematical Modelling, Process Development, Process Optimization, Process Validation, Theoretical Biology and Chemistry (DFT).

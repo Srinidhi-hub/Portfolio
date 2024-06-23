@@ -12,7 +12,7 @@ Hello, I received my Master's degree in Chemical Engineering from The State Univ
 
 ## Skills | Keywords 
 - **Keywords:** Statistical programming, Data Mining, Bioprocess Modelling, Biostatistics, Mathematical Modelling, Process Development, Process Optimization, Process Validation, Theoretical Biology and Chemistry (DFT).
-- **Tech Stack:** Cytoscape, Super-pro designer, GAMESS (US), PyMol, PyRx, AutoDock, Discovery Studio, Cobra Toolbox, MATLAB, Python, Minitab, MS Office, SLURM Scripting.
+- **Tech Stack:** UniSim, MATLAB, Python, MiniTab, Cytoscape, Super-pro designer, GAMESS (US), PyMol, PyRx, AutoDock, Discovery Studio, Cobra Toolbox, MS Office, SLURM Scripting.
 - **Libraries:** NumPy, Pandas, SciPy, Matplotlib, FiPy, Multiprocessing, Openpyxl.
 - **Database:** GTEx, LINCS-1000.
 - **Laboratory Techniques and Instrumentation:** UV Spectrophotometer, Meso-scale discovery systems, Tecan liquid handling systems, Watson -LIMS.

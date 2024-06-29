@@ -16,7 +16,7 @@ Hello, I received my Master's degree in Chemical Engineering from The State Univ
 - **Libraries:** NumPy, Pandas, SciPy, Matplotlib, FiPy, Multiprocessing, Openpyxl.
 - **Database:** GTEx, LINCS-1000.
 - **Laboratory Techniques and Instrumentation:** UV Spectrophotometer, Meso-scale discovery systems, Tecan liquid handling systems, Watson -LIMS.
-- **Technical Certifications:** | ‘**Lean Six Sigma Black Belt Professional**’ Certification offered by Six Sigma Global Institute [Certificate](https://sgq.io/ejasLji) | ‘**Bioreactor operations**’ from National Institute for Bioprocessing Research and Training, Dublin, Ireland 
+- **Technical Certifications:** | ‘**Lean Six Sigma Black Belt Professional**’ Certification offered by Six Sigma Global Institute [Certificate](https://www.credential.net/15dfb27f-14b3-4d09-81df-5806e02e9840#gs.9gq4se) | ‘**Bioreactor operations**’ from National Institute for Bioprocessing Research and Training, Dublin, Ireland 
 
 ## Graduate Course Work
 - Biochemical Engineering

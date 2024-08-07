@@ -100,7 +100,7 @@ Consumption.
 - Biomass production of P. Pastoris in multimodal bioreactor assemblies. Performed routine EVSIP, FVSIP, CIP of production scale bioreactor installations along with cell culture techniques like media preparation, staining, sub-culturing and sketching piping and instrumentation diagrams of production scale process equipment tailored to the URS.
 
 ## Preprints and Publications
-- Srinidhi, “A Three-Pronged Computational Approach for Evaluating Density Based Semi Empirical Equations of Supercritical Extraction Process and Data,” Chemrxiv, 2024, [[Doi](https://doi.org/10.26434/chemrxiv-2024-fw30s)]  [[PDF](/assets/docs/publications/p5.pdf)].
+- Srinidhi, “A Three-Pronged Computational Approach for Evaluating Density Based Semi Empirical Equations of Supercritical Extraction Process and Data,” Chemrxiv, 2024, [[Doi](https://doi.org/10.26434/chemrxiv-2024-fw30s-v2)]  [[PDF](/assets/docs/publications/p5.pdf)].
 - Srinidhi, “Quantum chemical studies and pharmacophore modeling for designing novel keap1 antagonists that enhance nrf2 mediated neuroprotection,” African Journal of Biological Sciences, vol. 3, no. 2, pp. 130–156, 2021, [[Url](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3835788)]  [[PDF](/assets/docs/publications/p4.pdf)].
 - Srinidhi, “Artificial Neural Network (FFBP-ANN) Based Grey Relational Analysis for Modeling Dyestuff Solubility in Supercritical CO2 with Ethanol as the Co-Solvent,” Chemical Review and Letters, vol. 5, pp. 141–152, 2021,
 [[Doi](https://dx.doi.org/10.22034/crl.2021.259291.1096)]  [[PDF](/assets/docs/publications/p3.pdf)].

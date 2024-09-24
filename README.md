@@ -1,7 +1,7 @@
 # Portfolio
 
 ## Introduction
-Hello, I am Srinidhi. I received my Master's degree in Chemical Engineering from The State University of New York at Buffalo. Earlier, I received my Bachelor's degree in Biotechnology Engineering from M. S. Ramaiah Institute of Technology. My Academic Interests include Theoretical modeling of Biochemical Processes, Applied Machine Learning for Biochemical Processes and Statistical Programming for process Optimization.
+Hello, I am Srinidhi. I received my Master's degree in Chemical Engineering from The State University of New York at Buffalo. Earlier, I received my Bachelor's degree in Biotechnology Engineering from M. S. Ramaiah Institute of Technology. My Academic Interests include Applied Machine Learning for Biochemical Processes and Statistical Programming for process Optimization.
 
 | [Email](srinidh2@buffalo.edu) | [LinkedIn](https://www.linkedin.com/in/sr1n1dh1/) | [Github](https://github.com/Srinidhi-hub) | [ORCID](https://orcid.org/0000-0002-5318-8639) | [ResearchGate](https://www.researchgate.net/profile/Srinidhi-2) |
 

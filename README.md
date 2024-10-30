@@ -3,7 +3,7 @@
 ## Introduction
 Hello, I am Srinidhi. I received my Master's degree in Chemical Engineering from The State University of New York at Buffalo. Earlier, I received my Bachelor's degree in Biotechnology Engineering from M. S. Ramaiah Institute of Technology. My Academic Interests include Applied Machine Learning for Biochemical Processes and Statistical Programming for process Optimization.
 
-| [Email](srinidh2@buffalo.edu) | [LinkedIn](https://www.linkedin.com/in/sr1n1dh1/) | [Github](https://github.com/Srinidhi-hub) | [ORCID](https://orcid.org/0000-0002-5318-8639) | [ResearchGate](https://www.researchgate.net/profile/Srinidhi-2) |
+| [Email](srinidh2@buffalo.edu) | [LinkedIn](https://www.linkedin.com/in/sr1n1dh1/)  | [ORCID](https://orcid.org/0000-0002-5318-8639) | [ResearchGate](https://www.researchgate.net/profile/Srinidhi-2) |
 
 ## Education
 - M.E, Chemical Engineering  | The State University of New York at Buffalo (SUNY) | August 2022
@@ -12,10 +12,10 @@ Hello, I am Srinidhi. I received my Master's degree in Chemical Engineering from
 
 ## Skills | Keywords 
 - **Keywords:** Statistical programming, Data Mining, Bioprocess Modelling, Biostatistics, Mathematical Modelling, Process Development, Process Optimization, Process Validation, Theoretical Biology and Chemistry (DFT).
-- **Tech Stack:** UniSim, MATLAB, Python, MiniTab, Cytoscape, Super-pro designer, GAMESS (US), PyMol, PyRx, AutoDock, Discovery Studio, Cobra Toolbox, MS Office, SLURM Scripting.
+- **Tech Stack:** UniSim, MATLAB, Python, SAS, MiniTab, Cytoscape, Super-pro designer, GAMESS (US), PyMol, PyRx, AutoDock, Discovery Studio, Cobra Toolbox, MS Office, SLURM Scripting.
 - **Libraries:** NumPy, Pandas, SciPy, Matplotlib, FiPy, Multiprocessing, Openpyxl.
-- **Database:** GTEx, LINCS-1000.
-- **Laboratory Techniques and Instrumentation:** UV Spectrophotometer, Meso-scale discovery systems, Tecan liquid handling systems, Watson -LIMS.
+- **Database:** GTEx, LINCS-1000, SDTM, ADaM, CDISC
+- **Laboratory Techniques and Instrumentation:** UV Spectrophotometer, Meso-scale discovery systems, Tecan liquid handling systems, Watson-LIMS, Pinnacle 21 Community, TrackWise-QMS.
 - **Technical Certifications:** | ‘**Lean Six Sigma Black Belt Professional**’ Certification offered by Six Sigma Global Institute [Certificate](https://www.credential.net/15dfb27f-14b3-4d09-81df-5806e02e9840#gs.9gq4se) | ‘**Bioreactor operations**’ from National Institute for Bioprocessing Research and Training, Dublin, Ireland 
 
 ## Graduate Course Work

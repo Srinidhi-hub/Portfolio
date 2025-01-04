@@ -5,12 +5,11 @@
 
 - Research experience in Mathematical Modeling, Structural Biology, Systems Pharmacology, Medicinal Chemistry, and DFT.
 
--Technical Certifications: "Lean Six Sigma Black Belt Professional" from Six Sigma Global Institute. 
-‘Bioreactor operations’ from National Institute for Bioprocessing Research and Training, Dublin, Ireland.
+- Technical Certifications: "Lean Six Sigma Black Belt Professional" from Six Sigma Global Institute. ‘Bioreactor operations’ from National Institute for Bioprocessing Research and Training, Dublin, Ireland.
 
 Email me at srinidh2@buffalo.edu / msrinidhi2@gmail.com
 
-| [Email](srinidh2@buffalo.edu) | [LinkedIn](https://www.linkedin.com/in/sr1n1dh1/)  | [ORCID](https://orcid.org/0000-0002-5318-8639) | [ResearchGate](https://www.researchgate.net/profile/Srinidhi-2) |
+| [LinkedIn](https://www.linkedin.com/in/sr1n1dh1/)  | [ORCID](https://orcid.org/0000-0002-5318-8639) | [ResearchGate](https://www.researchgate.net/profile/Srinidhi-2) |
 
 ## Education
 - M.E, Chemical Engineering  | The State University of New York at Buffalo (SUNY) | August 2022

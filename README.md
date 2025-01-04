@@ -13,8 +13,8 @@ Email me at srinidh2@buffalo.edu / msrinidhi2@gmail.com
 
 ## Education
 - M.E, Chemical Engineering  | The State University of New York at Buffalo (SUNY) | August 2022
-- CeDiD: | 22G6-XJHD-SOI8 (Sr) | [Degree Credential](https://registrar.buffalo.edu/diploma/credential-validation.php) 
 - B.E, Biotechnology | M. S. Ramaiah Institute of Technology | February 2020
+- CeDiD: | 22G6-XJHD-SOI8 (Sr) | [Credential](https://registrar.buffalo.edu/diploma/credential-validation.php)
 
 ## Skills | Keywords 
 - **Keywords:** Statistical programming, Data Mining, Bioprocess Modelling, Biostatistics, Mathematical Modelling, Process Development, Process Optimization, Process Validation, Theoretical Biology and Chemistry (DFT).

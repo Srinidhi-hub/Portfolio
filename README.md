@@ -1,7 +1,14 @@
 # Portfolio
 
 ## Introduction
-Hello, I am Srinidhi. I received my Master's degree in Chemical Engineering from The State University of New York at Buffalo. Earlier, I received my Bachelor's degree in Biotechnology Engineering from M. S. Ramaiah Institute of Technology. My Academic Interests include Applied Machine Learning for Biochemical Processes and Statistical Programming for process Optimization.
+- Skills: Biochemical Methods, Algorithms, Statistics, Computational Chemistry / Biology, Mathematical Modeling, Process Design and Optimization.
+
+- Research experience in Mathematical Modeling, Structural Biology, Systems Pharmacology, Medicinal Chemistry, and DFT.
+
+-Technical Certifications: "Lean Six Sigma Black Belt Professional" from Six Sigma Global Institute. 
+‘Bioreactor operations’ from National Institute for Bioprocessing Research and Training, Dublin, Ireland.
+
+Email me at srinidh2@buffalo.edu / msrinidhi2@gmail.com
 
 | [Email](srinidh2@buffalo.edu) | [LinkedIn](https://www.linkedin.com/in/sr1n1dh1/)  | [ORCID](https://orcid.org/0000-0002-5318-8639) | [ResearchGate](https://www.researchgate.net/profile/Srinidhi-2) |
 

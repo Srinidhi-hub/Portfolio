@@ -44,26 +44,26 @@ Email me at srinidh2@buffalo.edu / msrinidhi2@gmail.com
 
 **Role: Graduate Research Student**
 
-- Underwent training to run, analyze and debug repositories like MOGONET, GraphSCI, DrugAGE, DrugGCN, Tybalt, cmapM.
-- Utilized the processors at the center for computational resources for running SLURM jobs on these repositories.
+- Underwent training to run, analyze and debug repositories like cmapM.
+- Utilized the processors at the center for computational resources for running SLURM scripts on these repositories.
 - Repurposed available code to calculate and plot correlations between tissue and gene types in the GTEx database.
 
 **Project:** Identify the source of variability in the HSR dynamics among C. Elegans worms using mathematical modeling.
 - Formulated ODE model and performed parameter estimation using MATLAB for the average worm.
-- Used fmincon function to simulate heat shock treatment from steady state to steady state and performed sensitivity analysis.
+- Used MATLAB functions like fmincon to simulate heat shock treatment from steady state to steady state and performed sensitivity analysis.
 - Scaled the predicted data and used plots to visualize the fit with empirical data and computed error values.
 
 **Project:** Mathematical modeling of Sarcopenia in a transgenic Mouse Model.
-- Updated an existing 2D reactive diffusion sarcopenia model for simulation in Python.
+- Updated an existing reactive diffusion sarcopenia model for simulation in Python.
 - Performed literature survey and gathered recently published parameters for an existing sarcopenia model.
-- Simulated a 2D reactive diffusion model with updated parameters using Fipy, Matplotlib, Multiprocessing and OpenpyXL.
+- Simulated a reactive diffusion model with updated parameters using Fipy, Matplotlib, Multiprocessing and OpenpyXL.
 - Simulated the model for a five-year duration and plotted the variation of muscle length and mutant v/s wild type mtDNA.
 - Performed and plotted sensitivity analysis on the model by varying parameters at discrete intervals.
 
 **Project:** Optimization of methanol production in UNISIM by using the six sigma DMAIC methodology.
-- Utilized fishbone, run charts, marginal plots to implement define and measure phase to assess initial process state.
-- Pareto, residual, contour and plots were used to implement analyze and improve phases and visualize production rates.
-- Measure phase was re implemented for hypothesis testing which indicated a significant increase in production (p<= 0.05).
+- Utilized plots (fishbone, run charts) to implement define and measure phase to assess initial process state.
+- Pareto and residual plots were used to implement analyze and improve phases and visualize production rates.
+- hypothesis testing indicated a significant increase in production (p<= 0.05).
 - Implemented Control phase using contour plots and narrowed the ranges of parameters for increased yield.
 - Checked for special cause variations during the optimization for preventing errors.
 
@@ -71,7 +71,7 @@ Email me at srinidh2@buffalo.edu / msrinidhi2@gmail.com
 - Yeast surface display and phage display protocols were mined from literature for designing possible candidate agents.
 - Gathered, curated and presented possible protocols for invitro binding affinity tests and for synthesizing designed agents.
 - Gathered, curated and presented possible protocols for testing these candidates in transgenic mice models.
-- Proposed an alternate strategy for achieving the same goal.
+- Proposed an alternate strategy for achieving the same result.
 
 **The University of Trans Disciplinary Health Sciences and Technology** | Research, Education and Training University | July 2019 – October 2019 |
 

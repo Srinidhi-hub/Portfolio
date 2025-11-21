@@ -9,7 +9,7 @@
 
 Email me at srinidh2@buffalo.edu / msrinidhi2@gmail.com
 
-| [LinkedIn](https://www.linkedin.com/in/sr1n1dh1/)  | [ORCID](https://orcid.org/0000-0002-5318-8639) | [ResearchGate](https://www.researchgate.net/profile/Srinidhi-2) |
+| [LinkedIn](https://www.linkedin.com/in/sr1n1dh1/)  | [ORCID](https://orcid.org/0000-0002-5318-8639) | [ResearchGate](https://www.researchgate.net/profile/Srinidhi-2) | [BlueSky](https://bsky.app/profile/srinidh2.bsky.social) |
 
 ## Education
 - M.E, Chemical Engineering  | The State University of New York at Buffalo (SUNY) | August 2022
@@ -17,7 +17,7 @@ Email me at srinidh2@buffalo.edu / msrinidhi2@gmail.com
 - CeDiD: | 22G6-XJHD-SOI8 (Sr) | [Credential](https://registrar.buffalo.edu/diploma/credential-validation.php)
 
 ## Skills | Keywords 
-- **Keywords:** Statistical programming, Data Mining, Bioprocess Modelling, Biostatistics, Mathematical Modelling, Process Development, Process Optimization, Process Validation, Theoretical Biology and Chemistry (DFT).
+- **Keywords:** Statistical programming, Data Mining, Bioprocess Modelling, Biostatistics, Mathematical Modelling, Computational Process Development (Optimization, Validation), Theoretical Biology and Chemistry (DFT).
 - **Tech Stack:** UniSim, MATLAB, Python, SAS, MiniTab, Cytoscape, Super-pro designer, GAMESS (US), PyMol, PyRx, AutoDock, Discovery Studio, Cobra Toolbox, MS Office, SLURM Scripting.
 - **Libraries:** NumPy, Pandas, SciPy, Matplotlib, FiPy, Multiprocessing, Openpyxl.
 - **Database:** GTEx, LINCS-1000, SDTM, ADaM, CDISC
@@ -33,7 +33,7 @@ Email me at srinidh2@buffalo.edu / msrinidhi2@gmail.com
 - Transport Phenomena 
 - Bioprocess Modeling 
 
-##  Experience
+##  Academic/Training/Research Experience
 
 **University at Buffalo (SUNY)** | Research, Education and Training University | Aug 2021 – Aug 2022 |
 

@@ -3,7 +3,7 @@
 ## Introduction
 - Skills: Biochemical Methods, Algorithms, Statistics, Computational Chemistry / Biology, Mathematical Modeling, Process Design and Optimization.
 
-- Research experience in Mathematical Modeling, Structural Biology, Systems Pharmacology, Medicinal Chemistry, and DFT.
+- Computational Research experience in Mathematical Modeling, Structural Biology, Systems Pharmacology, Medicinal Chemistry, and DFT.
 
 - Technical Certifications: "Lean Six Sigma Black Belt Professional" from Six Sigma Global Institute. ‘Bioreactor operations’ from National Institute for Bioprocessing Research and Training, Dublin, Ireland.
 
@@ -25,7 +25,8 @@ Email: srinidh2@buffalo.edu / msrinidhi2@gmail.com
 - **Libraries:** NumPy, Pandas, SciPy, Matplotlib, FiPy, Multiprocessing, Openpyxl.
 - **Database:** GTEx, LINCS-1000.
 - **Laboratory Techniques and Instrumentation:** UV Spectrophotometer, Meso-scale discovery systems.
-- **Technical Certifications:** | ‘**Lean Six Sigma Black Belt Professional**’ Certification offered by Six Sigma Global Institute [Certificate](https://www.credential.net/15dfb27f-14b3-4d09-81df-5806e02e9840#gs.9gq4se) | ‘**Bioreactor operations**’ from National Institute for Bioprocessing Research and Training, Dublin, Ireland 
+- **Technical Certifications:** | ‘**Lean Six Sigma Black Belt Professional**’ Certification offered by Six Sigma Global Institute [Certificate](https://www.credential.net/15dfb27f-14b3-4d09-81df-5806e02e9840#gs.9gq4se) | ‘**Bioreactor operations**’ from National Institute for Bioprocessing Research and Training, Dublin, Ireland.
+- Examination Certifications: GATE 2025 BT: AIR-1785.  
 
 ## Graduate Course Work
 - Biochemical Engineering
@@ -37,6 +38,18 @@ Email: srinidh2@buffalo.edu / msrinidhi2@gmail.com
 - Bioprocess Modeling 
 
 ##  Academic/Training/Research Experience
+
+**Privi Speciality Chemicals Limited** | Chemical Design, Manufacturing and Distribution | March 2025 - Present |
+
+**Role: Scientist**
+
+- Training in Distillation and Process Chemistry, Vaccum and Distillation Equipment.
+- Training in Organic Chemistry of C=O and Alcohol based intermediates.
+- Unit Processes: Grignards Reaction, Condensation, Hydration, Reduction, Etherification isomerization, and Esterification.
+- Participated actively in Chromatography, Sample Preparation and Documentation.
+- Assisted in routine Stoichiometry and Mass Balance Calculations.
+- Coordinated and contributed actively towards scale up, optimization and material testing activities.
+- Wrote and Compiled a Wet Analysis Laboratory Software Program in Python for Analytical Chemists. 
 
 **University at Buffalo (SUNY)** | Research, Education and Training University | Aug 2021 – Aug 2022 |
 
@@ -53,7 +66,7 @@ Email: srinidh2@buffalo.edu / msrinidhi2@gmail.com
 
 **Project:** Identify the source of variability in the HSR dynamics among C. Elegans worms using mathematical modeling.
 - Formulated ODE model and performed parameter estimation using MATLAB for the average worm.
-- Used MATLAB functions like fmincon to simulate heat shock treatment from steady state to steady state and performed sensitivity analysis.
+- Utilized MATLAB functions like fmincon to simulate heat shock treatment from steady state to steady state and performed sensitivity analysis.
 - Scaled the predicted data and used plots to visualize the fit with empirical data and computed error values.
 
 **Project:** Mathematical modeling of Sarcopenia in a transgenic Mouse Model.
@@ -66,7 +79,7 @@ Email: srinidh2@buffalo.edu / msrinidhi2@gmail.com
 **Project:** Optimization of methanol production in UNISIM by using the six sigma DMAIC methodology.
 - Utilized plots (fishbone, run charts) to implement define and measure phase to assess initial process state.
 - Pareto and residual plots were used to implement analyze and improve phases and visualize production rates.
-- hypothesis testing indicated a significant increase in production (p<= 0.05).
+- hypothesis testing informed a significant increase in production (p<= 0.05).
 - Implemented Control phase using contour plots and narrowed the ranges of parameters for increased yield.
 - Checked for special cause variations during the optimization for preventing errors.
 

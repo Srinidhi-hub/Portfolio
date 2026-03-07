@@ -43,13 +43,13 @@ Email: srinidh2@buffalo.edu / msrinidhi2@gmail.com
 
 **Role: Scientist**
 
-- Training in Distillation and Process Chemistry, Vaccum and Distillation Equipment.
-- Training in Organic Chemistry of C=O and Alcohol based intermediates.
-- Unit Processes: Grignards Reaction, Condensation, Hydration, Reduction, Etherification isomerization, and Esterification.
-- Participated actively in Chromatography, Sample Preparation and Documentation.
+- Training in Distillation Chemistry, Vaccum and Distillation Equipment.
+- Training in Organic Chemistry of C=O and -OH based intermediates.
+- Unit Processes: Grignards Reaction, Condensation, Hydration, Reduction, Etherification, isomerization, and Esterification.
+- Participated actively in Sample Preparation, Chromatography and Documentation.
 - Assisted in routine Stoichiometry and Mass Balance Calculations.
 - Coordinated and contributed actively towards scale up, optimization and material testing activities.
-- Wrote and Compiled a Wet Analysis Laboratory Software Program in Python for Analytical Chemists. 
+- Wrote and Compiled a Wet Analysis Laboratory Software Program in Python for titrimetric analysis. 
 
 **University at Buffalo (SUNY)** | Research, Education and Training University | Aug 2021 – Aug 2022 |
 

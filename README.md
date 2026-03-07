@@ -25,9 +25,9 @@ Email: srinidh2@buffalo.edu / msrinidhi2@gmail.com
 - **Libraries:** NumPy, Pandas, SciPy, Matplotlib, FiPy, Multiprocessing, Openpyxl.
 - **Database:** GTEx, LINCS-1000.
 - **Laboratory Techniques and Instrumentation:** UV Spectrophotometer, Meso-scale discovery systems.
+- Examination Certifications: GATE 2025 BT: AIR-1785.
 - **Technical Certifications:** | ‘**Lean Six Sigma Black Belt Professional**’ Certification offered by Six Sigma Global Institute [Certificate](https://www.credential.net/15dfb27f-14b3-4d09-81df-5806e02e9840#gs.9gq4se) | ‘**Bioreactor operations**’ from National Institute for Bioprocessing Research and Training, Dublin, Ireland.
-- Examination Certifications: GATE 2025 BT: AIR-1785.  
-
+  
 ## Graduate Course Work
 - Biochemical Engineering
 - Six Sigma for Chemical Engineers 
@@ -43,10 +43,10 @@ Email: srinidh2@buffalo.edu / msrinidhi2@gmail.com
 
 **Role: Scientist**
 
-- Training in Distillation Chemistry, Vaccum and Distillation Equipment.
+- Training in Distillation Chemistry, Vacuum and Distillation Equipment.
 - Training in Organic Chemistry of C=O and -OH based intermediates.
-- Unit Processes: Grignards Reaction, Condensation, Hydration, Reduction, Etherification, isomerization, and Esterification.
-- Participated actively in Sample Preparation, Chromatography and Documentation.
+- Unit Processes: Grignards Reaction, Condensation, Hydration, Reduction, Etherification, Isomerization, and Esterification.
+- Actively participated in Sample Preparation, Chromatography and Documentation.
 - Assisted in routine Stoichiometry and Mass Balance Calculations.
 - Coordinated and contributed actively towards scale up, optimization and material testing activities.
 - Wrote and Compiled a Wet Analysis Laboratory Software Program in Python for titrimetric analysis. 

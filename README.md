@@ -2,12 +2,15 @@
 
 ## Introduction
 - Skills: Biochemical Methods, Algorithms, Statistics, Computational Chemistry / Biology, Mathematical Modeling, Process Design and Optimization.
+  
+- Wet Analysis Experience in Bioreactor Handling, Distillation Chemistry Scaleup, Liquid Workup Protocols, Catalyst Handling, Process Monitoring, and Sample Preparation. 
 
 - Computational Research experience in Mathematical Modeling, Structural Biology, Systems Pharmacology, Medicinal Chemistry, and DFT.
 
 - Technical Certifications: "Lean Six Sigma Black Belt Professional" from Six Sigma Global Institute. ‘Bioreactor operations’ from National Institute for Bioprocessing Research and Training, Dublin, Ireland.
 
 - GitHub | [[Gitlink](https://github.com/Srinidhi-hub)]
+  
 - Kindly Email for Access/Collaboration.
 
 Email: srinidh2@buffalo.edu / msrinidhi2@gmail.com

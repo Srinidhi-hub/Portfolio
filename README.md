@@ -3,7 +3,7 @@
 ## Introduction
 - Skills: Biochemical Methods, Algorithms, Statistics, Computational Chemistry / Biology, Mathematical Modeling, Process Design and Optimization.
   
-- Laboratory Experience in Bioreactor Handling, Distillation Chemistry Scaleup, Liquid Workup Protocols, Catalyst Handling, Process Monitoring, and Sample Preparation. 
+- Laboratory Experience in Bioreactor Operations, Distillation Chemistry, Liquid Workup Procedures, Equipment assembly, Process Monitoring and Sample Preparation. 
 
 - Computational Research experience in Mathematical Modeling, Structural Biology, Systems Pharmacology, Medicinal Chemistry, and DFT.
 

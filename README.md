@@ -24,10 +24,10 @@ Email: srinidh2@buffalo.edu / msrinidhi2@gmail.com
 
 ## Skills | Keywords 
 - **Keywords:** Statistical programming, Data Mining, Bioprocess Modelling, Biostatistics, Mathematical Modelling, Computational Process Development (Optimization, Validation), Theoretical Biology and Chemistry (DFT).
-- **Tech Stack:** UniSim, MATLAB, Python, SAS, MiniTab, Cytoscape, Super-pro designer, GAMESS (US), PyMol, PyRx, AutoDock, Discovery Studio, Cobra Toolbox, MS Office, SLURM Scripting.
+- **Tech Stack:** UniSim, MATLAB, Python, MiniTab, Cytoscape, Super-pro designer, GAMESS (US), PyMol, PyRx, AutoDock, Discovery Studio, Cobra Toolbox, MS Office, SLURM Scripting.
 - **Libraries:** NumPy, Pandas, SciPy, Matplotlib, FiPy, Multiprocessing, Openpyxl.
 - **Database:** GTEx, LINCS-1000.
-- **Laboratory Techniques and Instrumentation:** UV Spectrophotometer, Meso-scale discovery systems.
+- **Laboratory Techniques and Instrumentation:** UV Spectrophotometer, Agilent Gas Chromatography Suite, Meso-scale discovery systems.
 - Examination Certifications: GATE 2025 BT: AIR-1785.
 - **Technical Certifications:** | ‘**Lean Six Sigma Black Belt Professional**’ Certification offered by Six Sigma Global Institute [Certificate](https://www.credential.net/15dfb27f-14b3-4d09-81df-5806e02e9840#gs.9gq4se) | ‘**Bioreactor operations**’ from National Institute for Bioprocessing Research and Training, Dublin, Ireland.
   

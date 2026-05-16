@@ -13,7 +13,7 @@
   
 - Kindly Email for Access/Collaboration.
 
-Email: srinidh2@buffalo.edu / msrinidhi2@gmail.com
+Email: msrinidhi2@gmail.com
 
 | [LinkedIn](https://www.linkedin.com/in/sr1n1dh1/)  | [ORCID](https://orcid.org/0000-0002-5318-8639) | [ResearchGate](https://www.researchgate.net/profile/Srinidhi-2) | [BlueSky](https://bsky.app/profile/srinidh2.bsky.social) |
 

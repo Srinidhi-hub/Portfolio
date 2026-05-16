@@ -29,7 +29,7 @@ Email: msrinidhi2@gmail.com
 - **Database:** GTEx, LINCS-1000.
 - **Laboratory Techniques and Instrumentation:** UV Spectrophotometer, Agilent Gas Chromatography Suite, Meso-scale discovery systems.
 - Examination Certifications: GATE 2025 BT: AIR-1785.
-- **Technical Certifications:** | ‘**Lean Six Sigma Black Belt Professional**’ Certification offered by Six Sigma Global Institute [Certificate](https://www.credential.net/15dfb27f-14b3-4d09-81df-5806e02e9840#gs.9gq4se) | ‘**Bioreactor operations**’ from National Institute for Bioprocessing Research and Training, Dublin, Ireland.
+- **Technical Certifications:** | ‘**Lean Six Sigma Black Belt Professional**’ Certification offered by Six Sigma Global Institute [Certificate](https://www.credential.net/15dfb27f-14b3-4d09-81df-5806e02e9840#gs.9gq4se) | ‘**Bioreactor operations**’ from National Institute for Bioprocessing Research and Training.
   
 ## Graduate Course Work
 - Biochemical Engineering

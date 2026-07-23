@@ -38,7 +38,7 @@ Email: msrinidhi2@gmail.com / srinidhi.workmail@gmail.com
 
 ##  Academic/Training/Research Experience
 
-**Privi Speciality Chemicals Limited** | Chemical Design, Manufacturing and Distribution | March 2025 - Present |
+**Privi Speciality Chemicals Limited** | Chemical Design, Manufacturing and Distribution | March 2025 - May 2026 |
 
 **Role: Scientist**
 

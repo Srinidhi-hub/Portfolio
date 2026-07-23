@@ -7,13 +7,12 @@
 
 - Computational Research experience in Mathematical Modeling, Structural Biology, Systems Pharmacology, Medicinal Chemistry, and DFT.
 
-- Technical Certifications: "Lean Six Sigma Black Belt Professional" from Six Sigma Global Institute. ‘Bioreactor operations’ from National Institute for Bioprocessing Research and Training, Dublin, Ireland.
-
+- Technical Certifications: "Lean Six Sigma Black Belt Professional" from Six Sigma Global Institute. ‘Bioreactor operations’ from National Institute for Bioprocessing Research and Training.
 - GitHub | [[Gitlink](https://github.com/Srinidhi-hub)]
   
 - Kindly Email for Access/Collaboration.
 
-Email: msrinidhi2@gmail.com
+Email: msrinidhi2@gmail.com / srinidhi.workmail@gmail.com
 
 | [LinkedIn](https://www.linkedin.com/in/sr1n1dh1/)  | [ORCID](https://orcid.org/0000-0002-5318-8639) | [ResearchGate](https://www.researchgate.net/profile/Srinidhi-2) | [BlueSky](https://bsky.app/profile/srinidh2.bsky.social) |
 

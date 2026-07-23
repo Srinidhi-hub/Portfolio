@@ -11,7 +11,7 @@
   
 Email: msrinidhi2@gmail.com / srinidhi.workmail@gmail.com
 
-| [LinkedIn](https://www.linkedin.com/in/sr1n1dh1/)  | [ORCID](https://orcid.org/0000-0002-5318-8639) | [ResearchGate](https://www.researchgate.net/profile/Srinidhi-2) | [BlueSky](https://bsky.app/profile/srinidh2.bsky.social) | [Gitlink](https://github.com/Srinidhi-hub)
+| [LinkedIn](https://www.linkedin.com/in/sr1n1dh1/)  | [ORCID](https://orcid.org/0000-0002-5318-8639) | [ResearchGate](https://www.researchgate.net/profile/Srinidhi-2) | [BlueSky](https://bsky.app/profile/srinidh2.bsky.social) | [GitHub](https://github.com/Srinidhi-hub) |
 
 ## Education
 - M.E, Chemical Engineering  | The State University of New York at Buffalo (SUNY) | August 2022
@@ -21,9 +21,9 @@ Email: msrinidhi2@gmail.com / srinidhi.workmail@gmail.com
 ## Skills | Keywords 
 - **Keywords:** Statistical programming, Data Mining, Bioprocess Modelling, Biostatistics, Mathematical Modelling, Computational Process Development (Optimization, Validation), Theoretical Biology and Chemistry (DFT).
 - **Tech Stack:** UniSim, MATLAB, Python, MiniTab, Cytoscape, Super-pro designer, GAMESS (US), PyMol, PyRx, AutoDock, Discovery Studio, Cobra Toolbox, MS Office, SLURM Scripting.
-- **Libraries:** NumPy, Pandas, SciPy, Matplotlib, FiPy, Multiprocessing, Openpyxl.
+- **Python Libraries:** NumPy, Pandas, SciPy, Matplotlib, FiPy, Multiprocessing, Openpyxl.
 - **Database:** GTEx, LINCS-1000.
-- **Laboratory Techniques and Instrumentation:** UV Spectrophotometer, Agilent Gas Chromatography Suite, Meso-scale discovery systems.
+- **Laboratory Techniques and Instrumentation:** UV Spectrophotometer, Agilent Suite, Meso-scale discovery systems.
 - Examination Certifications: GATE 2025 BT: AIR-1785.
 - **Technical Certifications:** | ‘**Lean Six Sigma Black Belt Professional**’ Certification offered by Six Sigma Global Institute [Certificate](https://www.credential.net/15dfb27f-14b3-4d09-81df-5806e02e9840#gs.9gq4se) | ‘**Bioreactor operations**’ from National Institute for Bioprocessing Research and Training.
   
@@ -42,7 +42,7 @@ Email: msrinidhi2@gmail.com / srinidhi.workmail@gmail.com
 
 **Role: Scientist**
 
-- Training in Distillation Chemistry, Vacuum and Distillation Equipment.
+- Training in Distillation Chemistry and Distillation Equipment.
 - Training in Organic Chemistry of C=O and -OH based intermediates.
 - Unit Processes: Grignard Reaction, Condensation, Hydration, Reduction, Etherification, Isomerization, and Esterification.
 - Actively participated in Sample Preparation, Chromatography and Documentation.
